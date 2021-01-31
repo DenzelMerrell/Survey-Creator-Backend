@@ -12,7 +12,7 @@ Sequelize
 
 # Models
 
-## Models
+**Models**
 
 Makes importing models easier. Imports all models so that they can all be exported from the same file.
 
