@@ -5,8 +5,11 @@ multiple choice polls with questions and options. Each user will also be able to
 on surveys created and posted by other users.
 
 Technologies:
+
 Node Js
+
 MySQL
+
 Sequelize
 
 
