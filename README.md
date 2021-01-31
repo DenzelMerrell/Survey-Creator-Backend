@@ -50,7 +50,7 @@ One to many association with the question table; one question has many options
 
 # Routes
 
-* docs *
+*docs*
 
 The information to be provided and supplied in the requests and responses
 
