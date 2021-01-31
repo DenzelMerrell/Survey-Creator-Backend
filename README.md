@@ -4,6 +4,11 @@ This is the backend for a survey creator website that will allow the user to cre
 multiple choice polls with questions and options. Each user will also be able to vote 
 on surveys created and posted by other users.
 
+Technologies:
+Node Js
+MySQL
+Sequelize
+
 
 #Models
 
