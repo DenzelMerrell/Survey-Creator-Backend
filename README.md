@@ -54,7 +54,7 @@ One to many association with the question table; one question has many options
 
 The information to be provided and supplied in the requests and responses
 
-* User Routes (Routes pertaining to user accounts) *
+*User Routes (Routes pertaining to user accounts)*
 
 ## signup
 
@@ -78,7 +78,7 @@ and allow access to the site.
 
 Delete a single user along with all associated surveys, questions, and options
 
-* Survey Routes (Routes pertaining to the creation and retrieval of surveys) *
+*Survey Routes (Routes pertaining to the creation and retrieval of surveys)*
 
 ## "add" routes
 
