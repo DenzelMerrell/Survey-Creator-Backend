@@ -1,0 +1,14 @@
+Increments the vote count of the poll option after someone takes a survey
+
+req: 
+
+{
+    optionId
+}
+
+req:
+
+{
+    success: true,
+    message: "Success"
+}

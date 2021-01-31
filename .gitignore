@@ -1,0 +1,6 @@
+node_modules
+.env
+cleardb-url.txt
+database-plan.xlsx
+/Helpers/db-connections.js
+database-plan.xlsx

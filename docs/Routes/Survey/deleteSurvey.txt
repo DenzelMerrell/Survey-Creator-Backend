@@ -1,0 +1,15 @@
+Delete a survey
+
+req:
+
+{
+    token,
+    surveyId
+}
+
+res: 
+
+{ 
+    success: true,
+    message: "Success"
+}

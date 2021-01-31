@@ -1,0 +1,16 @@
+Verify and give an existing user access to their account
+
+req:
+
+{
+    username
+    password
+} 
+
+res:
+
+{
+    success: true,
+    message: "Success",
+    token
+}

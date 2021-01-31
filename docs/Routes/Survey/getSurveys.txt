@@ -1,0 +1,22 @@
+Search for all surveys by the search query
+
+req:
+
+{
+    searchQuery
+}
+
+res: 
+
+{
+    success: true,
+    message: "Success"
+    surveys: 
+    [
+        {
+            surveyName,
+            surveyId,
+            username
+        }
+    ]
+}

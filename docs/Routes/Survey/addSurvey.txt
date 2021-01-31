@@ -1,0 +1,16 @@
+Add a survey to a users account 
+
+req:
+
+{
+    token,
+    surveyName
+}
+
+res: 
+
+{
+    successs: true,
+    message: "Success",
+    surveyId: `${id}`
+}

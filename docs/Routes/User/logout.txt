@@ -1,0 +1,14 @@
+End the user session associated with the given token 
+
+req:
+
+{
+    token
+}
+ 
+res:
+
+{
+    success: true,
+    message: "Success" 
+}

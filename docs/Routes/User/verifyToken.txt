@@ -1,0 +1,15 @@
+Verify that the users token is correct
+
+
+req:
+
+{
+    token
+} 
+
+res:
+
+{
+    success: true,
+    message: "Success"
+}

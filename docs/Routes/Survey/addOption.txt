@@ -1,0 +1,15 @@
+Add an option to a survey
+
+req:
+
+{
+    option,
+    questionId
+}
+
+res: 
+
+{
+    success: true,
+    message: "success"
+}

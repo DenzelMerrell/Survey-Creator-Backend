@@ -1,0 +1,15 @@
+Delete an entire user account
+
+
+req:
+
+{
+    token
+} 
+
+res:
+
+{
+    success: true,
+    message: "Success"
+}

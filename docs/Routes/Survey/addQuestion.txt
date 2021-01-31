@@ -1,0 +1,16 @@
+Add a question to a survey 
+ 
+req:
+
+{
+    question,
+    surveyId
+}
+
+res: 
+
+{
+    success: true,
+    message: "Success",
+    questionId: `${id}`
+}
