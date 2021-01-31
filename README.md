@@ -16,11 +16,11 @@ Sequelize
 
 Makes importing models easier. Imports all models so that they can all be exported from the same file.
 
-## User
+**User**
 
 Stores users username and password
 
-## User Session
+**User Session**
 
 Whenever a user signs up a new usersession is created. It is toggled on and off as they log in and out
 
@@ -28,7 +28,7 @@ The token is put into the users local storage and is used to
 determine if the user is already signed in (After they have refreshed
 the page or left the browser and come back)
 
-## Survey
+**Survey**
 
 Stores the survey name
 
